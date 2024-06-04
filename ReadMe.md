@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a undergraduate student majoring in Electrical Engineering at the School of Electrical Engineering and Informatics, Bandung Institute of Technology. I am interested in integrated systems, cloud services, IoT, and computer manufacturing development.
+I am an undergraduate student majoring in Electrical Engineering at the School of Electrical Engineering and Informatics, Bandung Institute of Technology. I am interested in integrated systems, cloud services, IoT, and computer manufacturing development.
 
 
 ## 🌐 Socials:
